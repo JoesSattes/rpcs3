@@ -15,7 +15,7 @@
 	branch = release_40
 [submodule "rsx_program_decompiler"]
 	path = rsx_program_decompiler
-	url = https://github.com/RPCS3/rsx_program_decompiler
+	url = https://github.com/Zangetsu38/rsx_program_decompiler
 [submodule "GSL"]
 	path = 3rdparty/GSL
 	url = https://github.com/Microsoft/GSL.git
@@ -43,5 +43,5 @@
 	url = https://github.com/RPCS3/rsx-debugger.git
 [submodule "3rdparty/hidapi"]
 	path = 3rdparty/hidapi
-	url = https://github.com/RPCS3/hidapi
+	url = https://github.com/Zangetsu38/hidapi
 	branch = master
